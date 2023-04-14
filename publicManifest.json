@@ -25,19 +25,10 @@
     },
     "value": {
       "en": [
-        "<span><b>The British Library </b></span> </br> <img src=\"https://www.bl.uk/britishlibrary/resources/global/images/bl_logo_100.gif\"/>"
+        "<img src=\"https://www.bl.uk/britishlibrary/resources/global/images/bl_logo_100.gif\"/>"
       ]
     }
-  },
-    "logo": [
-    {
-      "id": "https://www.bl.uk/britishlibrary/resources/global/images/bl_logo_100.gif",
-      "type": "Image",
-      "format": "image/jpeg",
-      "height": 100,
-      "width": 120
-    }
-  ]
+  }
 ,
     "rendering": [
         {
