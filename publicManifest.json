@@ -17,19 +17,7 @@
         "format": "image/jpg"
       }
     ], 
-    "requiredStatement": {
-    "label": {
-      "en": [
-        "Content provided by"
-      ]
-    },
-    "value": {
-      "en": [
-        "<img src=\"https://www.bl.uk/britishlibrary/resources/global/images/bl_logo_100.gif\"/>"
-      ]
-    }
-  }
-,
+    
     "rendering": [
         {
             "id": "https://www.africau.edu/images/default/sample.pdf",
