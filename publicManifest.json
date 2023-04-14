@@ -52,6 +52,14 @@
         }
     ],
     "metadata": [
+        {
+        "label: {
+        "en: [
+            "Content Provided By"
+            ]
+},
+"value": { "none": ["<img src=\"https://www.bl.uk/britishlibrary/resources/global/images/bl_logo_100.gif\"/>"] }
+        },
       {
         "label": {
           "sv": [
